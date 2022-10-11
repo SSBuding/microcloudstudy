@@ -10,6 +10,7 @@
         <module>commons</module>
         <module>eureka-server</module>
         <module>hystrix-dashboard</module>
+        <module>gateway-server</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
